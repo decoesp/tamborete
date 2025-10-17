@@ -1,0 +1,4 @@
+server:
+  port: 6379
+  auth: "secret"
+  persist_file: "data/dump.json"
